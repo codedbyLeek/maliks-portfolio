@@ -23,8 +23,8 @@ repository               : "codedbyLeek/maliks-portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "{{ site.baseurl }}/images/profilepic.png"
-  name             : "Your Sidebar Name"
+  avatar           : "/images/profilepic.png"
+  name             : "Malik Scruggs"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
